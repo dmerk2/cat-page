@@ -6,3 +6,15 @@ h1{
 	text-align: center;
 	color: blue;
 }
+
+ul{
+	color: darkblue;
+}
+
+ol{
+	color:darkblue;
+}
+
+p{
+	color: rgba(90,99,255,0.9);
+}
