@@ -1,0 +1,44 @@
+body{
+	background-color: rgba(100,104,197,0.4);
+}
+
+h1{
+	text-align: center;
+	color: blue;
+}
+
+h2{
+	font-size: 50px;
+	text-align: center;
+	color: blue;
+}
+
+ul{
+	color: darkblue;
+}
+
+ol{
+	color:darkblue;
+}
+
+p{
+	color: rgba(90,99,255,0.9);
+}
+
+.thick-green-border{
+	border: 2px solid black;
+	border-radius: 50%;
+	float: left;
+}
+
+#pic2{
+	border: 2px solid black;
+	border-radius: 50%;
+	margin-bottom: 10px;
+}
+
+#pic3{
+	border: 2px solid black;
+	border-radius: 50%;
+	float: left;	
+}
